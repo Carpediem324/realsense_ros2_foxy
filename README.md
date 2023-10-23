@@ -14,5 +14,5 @@ colcon build
 
 ros2 launch realsense2_camera rs_launch.py enable_pointcloud:=true device_type:=d455
 
-![Uploading Screenshot from 2023-10-23 22-13-32.png…]()
 
+![Screenshot from 2023-10-23 22-13-32](https://github.com/Carpediem324/realsense_ros2_foxy/assets/101110020/ad3eea47-7142-48e1-9348-ba122a4a30f2)
